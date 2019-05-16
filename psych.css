@@ -1,0 +1,29 @@
+body{
+  font-family: 'Indie Flower', cursive;
+}
+
+.Bild{
+  width: 70%;
+  height: auto;
+  position: relative;
+  margin: 0 auto;
+}
+
+.Bild img{
+  width: 100%;
+  height: auto;
+}
+
+
+.Bild span {
+  position: absolute;
+  top: 0;
+  height: 80%;
+  font-size: 7vw;
+  display: flex;
+  width: 80%;
+  align-items: center;
+  padding: 10%;
+  justify-content: center;
+
+}
